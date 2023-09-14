@@ -148,7 +148,7 @@ export default function Home() {
           justifyContent: "flex-end",
         }}
       >
-        Developed By Techlabs.cc
+        Developed By Ahsan Chaudhry
       </div>
     </>
   );
